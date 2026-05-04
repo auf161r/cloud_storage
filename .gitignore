@@ -1,0 +1,10 @@
+# Composer
+/vendor/
+composer.lock
+
+# Environment
+.env
+
+# Storage (user uploaded files)
+/storage/
+!storage/.gitkeep
